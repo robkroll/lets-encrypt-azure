@@ -5,6 +5,7 @@ on:
 
 env:
   ResourceGroup: robkroll-letsencrypt-fn
+  
 jobs:
   build:
     runs-on: ubuntu-latest
